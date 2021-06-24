@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "QGqO+7Wv6WI/Jw0+8wSce/g8xf3DUNy3lg3Ex6RRlSFUm9nBSuqc/cqhkTekyBJFLxFJUGp7I1swLCopCMKpKQ==",
+  "dgSpecHash": "ElS/GlU0ASd/hnMev2SZIXLGsEjSdymner5yIJHMBu+yHOekxafzZGleq3GJV7MSFKOct1g9dqjN4ixCEYBDZw==",
   "success": true,
-  "projectFilePath": "/Users/walkerlaury/dotnet-rpg/dotnet-rpg.csproj",
+  "projectFilePath": "E:\\projects\\DOTNET-RPG\\dotnetRPG\\dotnet-rpg.csproj",
   "expectedPackageFiles": [
-    "/Users/walkerlaury/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/walkerlaury/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/walkerlaury/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "/Users/walkerlaury/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "/Users/walkerlaury/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/Users/walkerlaury/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\wlaur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\wlaur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\wlaur\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\wlaur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\wlaur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\wlaur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }

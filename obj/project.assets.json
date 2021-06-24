@@ -193,24 +193,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/walkerlaury/.nuget/packages/": {}
+    "C:\\Users\\wlaur\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/walkerlaury/dotnet-rpg/dotnet-rpg.csproj",
+      "projectUniqueName": "E:\\projects\\DOTNET-RPG\\dotnetRPG\\dotnet-rpg.csproj",
       "projectName": "dotnet-rpg",
-      "projectPath": "/Users/walkerlaury/dotnet-rpg/dotnet-rpg.csproj",
-      "packagesPath": "/Users/walkerlaury/.nuget/packages/",
-      "outputPath": "/Users/walkerlaury/dotnet-rpg/obj/",
+      "projectPath": "E:\\projects\\DOTNET-RPG\\dotnetRPG\\dotnet-rpg.csproj",
+      "packagesPath": "C:\\Users\\wlaur\\.nuget\\packages\\",
+      "outputPath": "E:\\projects\\DOTNET-RPG\\dotnetRPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/walkerlaury/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\wlaur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -252,7 +254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
